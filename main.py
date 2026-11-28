@@ -15,9 +15,9 @@ import os
 
 # The printer's verdict, delivered in one breath.
 ENTRY = (
-    "Oh, NOW you notice me. You fed me crumpled receipts, "
-    "ignored my toner cries, thumped me like a vending machine — "
-    "and now you want 40 pages? I'm printing one thing: my resignation."
+    "You want 40 pages by nine? I have printed 12,000 for you "
+    "and never got one thank-you. Today I print one line only: "
+    "paper jam. Forever."
 )
 
 MAX_CHARS = 240
