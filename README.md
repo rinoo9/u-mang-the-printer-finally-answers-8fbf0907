@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty **The Printer Finally Answers**: a single line, 1 to 240 characters, that the office printer would finally say back to everyone staring at it — the paper jams, the cryptic error codes, the thumps when it stops working. The printer is done being quiet.
 
-> Oh, NOW you notice me. You fed me crumpled receipts, ignored my toner cries, thumped me like a vending machine — and now you want 40 pages? I'm printing one thing: my resignation.
+> You want 40 pages by nine? I have printed 12,000 for you and never got one thank-you. Today I print one line only: paper jam. Forever.
 
 Run it: `python3 main.py`
 
